@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/button_original"
+        android:layout_width="200dp"
+        android:layout_height="80dp"
+        android:text="系统自带WebView"
+        android:layout_gravity="center"
+        />
+
+
+    <Button
+        android:id="@+id/button_x5"
+        android:layout_width="200dp"
+        android:layout_height="80dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="40dp"
+        android:text="X5 WebView"
+        />
+
+    <Button
+        android:id="@+id/button_crosswalk"
+        android:layout_width="200dp"
+        android:layout_height="80dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="40dp"
+        android:text="CrossWalk WebView"
+        />
+
+</LinearLayout>
