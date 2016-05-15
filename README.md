@@ -1,12 +1,4 @@
-title: Android WebView的几种选择对比
-
-date: 2016-05-15 13:53:35
-
-tags:
- - Android
-
-categories: Android
----
+## Android WebView的几种选择对比
 
 现在的移动开发，一个明显的趋势是HTML占据了越来越重要的位置,H5不再是简单的一个浏览网页的行为，在非常多的APP中，它承担了许多原本许要原生开发的功能；Android的H5支持则是个比较头痛的事情
 
