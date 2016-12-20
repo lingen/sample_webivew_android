@@ -29,13 +29,13 @@ Android WebView的选择有三种方案，分别是
 笔者有一个较老的华为荣耀3C手机，购置于3年前，分别使用系统自带的WebView,X5 WebView,Crosswalk三种模式访问html5test网站，得出的评分结果分别是:
 
 > 系统自带的WebView
-![自带WebView](http://media.openpanda.org/android_webview_orignal.jpeg)
+![自带WebView](http://media.lingenliu.com/android_webview_orignal.jpeg-default)
 
 > X5内核WebView
-![X5内核](http://media.openpanda.org/android_webview_x5.jpeg)
+![X5内核](http://media.lingenliu.com/android_webview_x5.jpeg-default)
 
 > Crosswalk WebView
-![crosswalk](http://media.openpanda.org/android_webview_crosswalk.jpeg)
+![crosswalk](http://media.lingenliu.com/android_webview_crosswalk.jpeg-default)
 
 
 如上所述，crosswalk的效果是显而易见；笔者所有公司的APP项目也是使用crosswalk做为Android WebView
